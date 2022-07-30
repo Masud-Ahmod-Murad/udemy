@@ -16,6 +16,10 @@
     .carousel-caption p {
         font-size: 18px;
     }
+    .courses img {
+        width: 200px;
+        height: 224px;
+    }
 }
 
 @media only screen and (max-width:991px) {
@@ -37,5 +41,9 @@
     }
     .carousel-caption {
         bottom: 0;
+    }
+    .courses img {
+        width: 364px;
+        height: 200px;
     }
 }
